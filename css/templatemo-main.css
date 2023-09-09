@@ -706,15 +706,16 @@ nav a:hover::before {
 
 .footer .content p {
 	text-align: center;
-	font-size: 13px;
+	font-size: 11px;
 	color: #fff;
-	margin-bottom: 20px;
+	margin-bottom: 9px;
 }
 
 .footer .content p a {
 	color: #aaa;
 	text-decoration: none;
 }
+
 
 
 
